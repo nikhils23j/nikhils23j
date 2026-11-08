@@ -37,4 +37,4 @@ I enjoy working close to the systems that make software reliable: Linux, network
 
 - 🎓 IIT Kanpur, Electrical Engineering; minors in Computer Systems, Machine Learning, and Algorithms.
 - 🧩 Codeforces **Expert**: [nikhilj22.iitk](https://codeforces.com/profile/nikhilj22.iitk).
-- 📫 Reach me at **[jikhlin23@gmail.com](mailto:jikhlin23@gmail.com)** or connect on [LinkedIn](https://linkedin.com/in/nikhil-jain-907100253).
+- 📫 Reach me at **[jikhlin23@gmail.com](mailto:nikhilj22.iitk@gmail.com)** or connect on [LinkedIn](https://linkedin.com/in/nikhil-jain-907100253).
