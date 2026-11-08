@@ -1,6 +1,6 @@
 # Hi, I'm Nikhil Jain 👋
 
-**Systems, infrastructure, and machine learning** · B.Tech in Electrical Engineering, IIT Kanpur (2026) · Bengaluru, India
+**Quant, Systems, and machine learning** · B.Tech in Electrical Engineering, IIT Kanpur (2026) · Bengaluru, India
 
 I enjoy working close to the systems that make software reliable: Linux, networks, production infrastructure, and performance-sensitive code. My experience includes infrastructure support at **Squarepoint Capital** and wireless modem analytics at **Samsung R&D**. Outside work, I build projects across networking, developer tools, and applied ML.
 
