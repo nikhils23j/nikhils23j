@@ -14,8 +14,7 @@ I enjoy working close to the systems that make software reliable: Linux, network
 - **Community:** Served as a Google Developer Groups campus organiser and as a manager in IIT Kanpur's Academic and Career Council.
 
 ## Featured projects
-
-Personal projects I've been building and upgrading in 2026, mostly with AI pair-programming. Every number below comes from a saved results file in the repo, and each README has a "what the numbers do NOT show" section.
+Every number below comes from a saved results file in the repo, and each README has a "what the numbers do NOT show" section.
 
 <p align="center">
   <a href="https://github.com/nikhils23j/worldquant-labs/tree/main/exchangelab"><img src="https://raw.githubusercontent.com/nikhils23j/worldquant-labs/main/docs/img/exchange_latency_cliff.png" width="49%" alt="ExchangeLab: arb PnL vs probe latency"></a>
