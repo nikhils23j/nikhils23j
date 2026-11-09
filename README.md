@@ -4,7 +4,7 @@
 
 I enjoy working close to the systems that make software reliable: Linux, networks, production infrastructure, and performance-sensitive code. My experience includes infrastructure support at **Squarepoint Capital** and wireless modem analytics at **Samsung R&D**. Outside work, I build projects across networking, developer tools, and applied ML.
 
-[LinkedIn](https://linkedin.com/in/nikhil-jain-907100253) · [Codeforces](https://codeforces.com/profile/nikhilj22.iitk) · [Email](mailto:jikhlin23@gmail.com)
+[LinkedIn](https://linkedin.com/in/nikhil-jain-907100253) · [Codeforces](https://codeforces.com/profile/nikhilj22.iitk) · [Email](mailto:nikhilj22.iitk@gmail.com)
 
 ## What I've worked on
 
@@ -66,4 +66,4 @@ Personal projects I've been building and upgrading in 2026, mostly with AI pair-
 
 - 🎓 IIT Kanpur, Electrical Engineering; minors in Computer Systems, Machine Learning, and Algorithms.
 - 🧩 Codeforces **Expert**: [nikhilj22.iitk](https://codeforces.com/profile/nikhilj22.iitk).
-- 📫 Reach me at **[jikhlin23@gmail.com](mailto:nikhilj22.iitk@gmail.com)** or connect on [LinkedIn](https://linkedin.com/in/nikhil-jain-907100253).
+- 📫 Reach me at **[nikhilj22.iitk@gmail.com](mailto:nikhilj22.iitk@gmail.com)** or connect on [LinkedIn](https://linkedin.com/in/nikhil-jain-907100253).
