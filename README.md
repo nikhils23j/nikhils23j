@@ -4,7 +4,7 @@
 
 I enjoy working close to the systems that make software reliable: Linux, networks, production infrastructure, and performance-sensitive code. My experience includes infrastructure support at **Squarepoint Capital** and wireless modem analytics at **Samsung R&D**. Outside work, I build projects across networking, developer tools, and applied ML.
 
-[LinkedIn](https://linkedin.com/in/nikhil-jain-907100253) · [Codeforces](https://codeforces.com/profile/nikhilj22.iitk) · [Email](mailto:nikhilj22.iitk@gmail.com)
+[Portfolio](https://nikhilj22.vercel.app) · [LinkedIn](https://linkedin.com/in/nikhil-jain-907100253) · [Codeforces](https://codeforces.com/profile/nikhilj22.iitk) · [Email](mailto:nikhilj22.iitk@gmail.com)
 
 ## What I've worked on
 
@@ -15,6 +15,13 @@ I enjoy working close to the systems that make software reliable: Linux, network
 
 ## Featured projects
 Every number below comes from a saved results file in the repo, and each README has a "what the numbers do NOT show" section.
+
+### Latest additions
+
+| Project | Focus | Measured result and scope |
+| --- | --- | --- |
+| [TraceGuard](https://github.com/nikhils23j/traceguard-replayable-tool-agent) | Replayable local tool-use agent with a deterministic authority gate and crash-safe writes | 144/144 guarded outcomes on a fixed synthetic 48-task × 3-seed suite; 20/20 injected post-commit restarts reached correct state |
+| [FieldBridge](https://github.com/nikhils23j/fieldbridge-shadow-replay) | Shadow-replayed integration cutover with approval and rollback | 120,000 logical events across 120 local synthetic runs; zero valid events unapplied against an independent reference |
 
 <p align="center">
   <a href="https://github.com/nikhils23j/worldquant-labs/tree/main/exchangelab"><img src="https://raw.githubusercontent.com/nikhils23j/worldquant-labs/main/docs/img/exchange_latency_cliff.png" width="49%" alt="ExchangeLab: arb PnL vs probe latency"></a>
