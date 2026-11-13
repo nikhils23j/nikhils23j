@@ -4,7 +4,7 @@
 
 I enjoy working close to the systems that make software reliable: Linux, networks, production infrastructure, and performance-sensitive code. My experience includes infrastructure support at **Squarepoint Capital** and wireless modem analytics at **Samsung R&D**. Outside work, I build projects across networking, developer tools, and applied ML.
 
-[Portfolio](https://nikhilj22.vercel.app) · [LinkedIn](https://linkedin.com/in/nikhil-jain-907100253) · [Codeforces](https://codeforces.com/profile/nikhilj22.iitk) · [Email](mailto:nikhilj22.iitk@gmail.com)
+[Portfolio](https://nikhilj22iitk.vercel.app) · [Writing](https://nikhilj22iitk.vercel.app/blogs) · [LinkedIn](https://linkedin.com/in/nikhil-jain-907100253) · [Codeforces](https://codeforces.com/profile/nikhilj22.iitk) · [Email](mailto:nikhilj22.iitk@gmail.com)
 
 ## What I've worked on
 
@@ -54,7 +54,7 @@ Every number below comes from a saved results file in the repo, and each README 
 | [GPU Pipeline Verification](https://github.com/nikhils23j/gpu-command-pipeline-ip-verification) | SystemVerilog ALU pipeline with a reorder buffer, verified with SV + cocotb testbenches | All 9 injected RTL bugs caught; 227,699 outputs checked, 174/174 coverage bins |
 | [API Authorization Lab](https://github.com/nikhils23j/api-contract-authorization-regression) | Multi-tenant API checked against a reference model with stateful random testing and shrinking | Caught 30/30 seeded authz bugs vs 24 for request enumeration; failures shrink to 1–3 step repros |
 | [IncidentOps](https://github.com/nikhils23j/incidentops) | Spring Boot + React incident tracker with SLA escalation, live SSE updates and optimistic locking | In an 8-way simultaneous-ack race exactly 1 wins (6 without locking); 45 + 17 tests |
-| [Sniff.in](https://github.com/nikhils23j/sniff.in) | A campus social app with mobile clients, a Supabase backend, and an invite website | |
+| [Sniff.in](https://sniffinreal.vercel.app) ([source](https://github.com/nikhils23j/sniff.in)) | A campus social app with mobile clients, a Supabase backend, and an invite website | |
 
 ## Tech stack
 
